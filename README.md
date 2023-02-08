@@ -39,8 +39,11 @@ I am a Computer Science Student studying Dublin City Univserity 👨‍💻. Wor
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/d6x/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/d6x/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </a>
 
 <br>

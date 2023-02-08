@@ -1,7 +1,7 @@
 ## Hi, I'm Liam 👋
 <a href='https://www.linkedin.com/in/liam-molloy/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-I'm Liam, Computer Science Student at 👨‍💻 Dublin City Univserity. Working as an Intern at Jaguar Land Rover. I love to explore and learn about new things. Currently hooked on Blockchain technology & App Development 🎯
+I am a Computer Science Student studying Dublin City Univserity 👨‍💻. Working as an Intern at Jaguar Land Rover 🚘. I love to explore and learn about new things. Currently hooked on Blockchain technology & App Development 🎯
 <br/>
 <br/>
 
@@ -38,10 +38,9 @@ I'm Liam, Computer Science Student at 👨‍💻 Dublin City Univserity. Workin
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+![Stats Overview](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/d6x/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </a>
 
 <br>

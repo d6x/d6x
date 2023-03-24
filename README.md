@@ -11,8 +11,7 @@ I am a Computer Science Student studying Dublin City Univserity 👨‍💻. Cur
 - 🌱 &nbsp; I’m currently learning Flutter
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/d6x?tab=repositories)
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/liam-molloy/)
-- 📝 &nbsp; Checkout my [resume]()
-- 🎮 &nbsp; Sometimes I play games. Checkout my [Steam](https://steamcommunity.com/id/playboys/)
+- 📝 &nbsp; Checkout my [CV]()
 
 <br>
 

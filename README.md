@@ -1,6 +1,6 @@
 ## Hi, I'm Liam 👋
 <br/>
-I am a Computer Science Student studying Dublin City Univserity 👨‍💻. Currently working at Jaguar Land Rover 🚘. 
+I am a Computer Science Student studying Dublin City Univserity 👨‍💻. Currently working at Jaguar Land Rover 🚘
 <br>
 
 ### 📊 Github Stats
